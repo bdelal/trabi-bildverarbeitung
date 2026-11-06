@@ -1,0 +1,232 @@
+{
+  "Scene_1": [
+    {
+      "bildname": "00.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "01.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "02.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "03.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "04.png",
+      "geschwindigkeit": 0,
+      "richtung": "rechts"
+    },
+    {
+      "bildname": "05.png",
+      "geschwindigkeit": 0,
+      "richtung": "rechts"
+    },
+    {
+      "bildname": "06.png",
+      "geschwindigkeit": 0,
+      "richtung": "rechts"
+    },
+    {
+      "bildname": "07.png",
+      "geschwindigkeit": 0,
+      "richtung": "rechts"
+    },
+    {
+      "bildname": "08.png",
+      "geschwindigkeit": 0,
+      "richtung": "rechts"
+    },
+    {
+      "bildname": "09.png",
+      "geschwindigkeit": 0,
+      "richtung": "rechts"
+    },
+    {
+      "bildname": "10.png",
+      "geschwindigkeit": 10,
+      "richtung": "rechts"
+    },
+    {
+      "bildname": "11.png",
+      "geschwindigkeit": 10,
+      "richtung": "rechts"
+    }
+  ],
+  "Scene_2": [
+    {
+      "bildname": "00.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "01.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "02.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "03.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "04.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "05.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "06.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    }
+  ],
+  "Scene_3": [
+    {
+      "bildname": "00.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "01.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "02.png",
+      "geschwindigkeit": 50,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "03.png",
+      "geschwindigkeit": 0,
+      "richtung": "links"
+    },
+    {
+      "bildname": "04.png",
+      "geschwindigkeit": 0,
+      "richtung": "links"
+    },
+    {
+      "bildname": "05.png",
+      "geschwindigkeit": 0,
+      "richtung": "links"
+    },
+    {
+      "bildname": "06.png",
+      "geschwindigkeit": 10,
+      "richtung": "links"
+    },
+    {
+      "bildname": "07.png",
+      "geschwindigkeit": 10,
+      "richtung": "links"
+    },
+    {
+      "bildname": "08.png",
+      "geschwindigkeit": 10,
+      "richtung": "links"
+    }
+  ],
+  "Scene_4": [
+    {
+      "bildname": "00.png",
+      "geschwindigkeit": 30,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "01.png",
+      "geschwindigkeit": 30,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "02.png",
+      "geschwindigkeit": 30,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "03.png",
+      "geschwindigkeit": 0,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "04.png",
+      "geschwindigkeit": 0,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "05.png",
+      "geschwindigkeit": 0,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "06.png",
+      "geschwindigkeit": 30,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "07.png",
+      "geschwindigkeit": 30,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "08.png",
+      "geschwindigkeit": 30,
+      "richtung": "geradeaus"
+    }
+  ],
+  "Scene_5": [
+    {
+      "bildname": "00.png",
+      "geschwindigkeit": 30,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "01.png",
+      "geschwindigkeit": 30,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "02.png",
+      "geschwindigkeit": 30,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "03.png",
+      "geschwindigkeit": 0,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "04.png",
+      "geschwindigkeit": 0,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "05.png",
+      "geschwindigkeit": 0,
+      "richtung": "geradeaus"
+    },
+    {
+      "bildname": "06.png",
+      "geschwindigkeit": 30,
+      "richtung": "geradeaus"
+    }
+  ]
+}
